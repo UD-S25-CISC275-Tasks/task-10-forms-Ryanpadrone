@@ -33,11 +33,7 @@ function ColorPreview({
             style={{
                 width: "50px",
                 height: "50px",
-<<<<<<< HEAD
                 backgroundColor: COLORS[colorIndex],
-=======
-                backgroundColor: COLORS[DEFAULT_COLOR_INDEX],
->>>>>>> origin/task-forms
                 display: "inline-block",
                 verticalAlign: "bottom",
                 marginLeft: "5px",
